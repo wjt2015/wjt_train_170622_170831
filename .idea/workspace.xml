@@ -4,7 +4,6 @@
     <list default="true" id="bb87ac44-6edf-446b-82c1-63bf6bb26bf1" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frc_170624_2/score" afterPath="$PROJECT_DIR$/frc_170624_2/score" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/score170624" afterPath="$PROJECT_DIR$/score170624" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/onduty_table/target/" />
     <ignored path="$PROJECT_DIR$/springMVC_170726/target/" />
@@ -25,18 +24,8 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="dest.txt" pinned="false" current-in-tab="false">
+      <file leaf-file-name="dest.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dest.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="wjt_train_170622.iml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wjt_train_170622.iml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -297,12 +286,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1501831236551</updated>
-      <workItem from="1501831239384" duration="843000" />
+      <workItem from="1501831239384" duration="971000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="843000" />
+    <option name="totallyTimeSpent" value="971000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="57" y="-4" width="1863" height="1084" extended-state="6" />
@@ -350,7 +339,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dest.txt">
+    <entry file="file://$PROJECT_DIR$/wjt_train_170622.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -358,7 +347,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wjt_train_170622.iml">
+    <entry file="file://$PROJECT_DIR$/dest.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
