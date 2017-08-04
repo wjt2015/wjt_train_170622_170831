@@ -1,19 +1,1041 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bb87ac44-6edf-446b-82c1-63bf6bb26bf1" name="Default" comment="">
+    <list default="true" id="a7ac483e-8ea7-42df-b34f-83b1d7f5dc1e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3.war" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/classes/com/qunar/fresh2017/common/SingletonSqlSessionFactory.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/classes/com/qunar/fresh2017/controller/UserController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/classes/com/qunar/fresh2017/dao/TextDiffDao.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/classes/com/qunar/fresh2017/mapper/TextDiffMapper.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/classes/com/qunar/fresh2017/model/TextDiff.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/classes/com/qunar/fresh2017/service/TextService.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/classes/com/qunar/fresh2017/service/impl/TextServiceImpl.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/classes/com/qunar/fresh2017/util/LineProcessorImp.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/classes/com/qunar/fresh2017/util/LoginChecker.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/classes/com/qunar/fresh2017/util/TextComparisionAndDB.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/classes/com/qunar/fresh2017/util/TextComparison.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/classes/com/qunar/fresh2017/util/TextReader.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/lib/aspectjweaver-1.8.9.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/lib/commons-fileupload-1.3.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/lib/commons-io-2.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/lib/guava-20.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/lib/jackson-annotations-2.8.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/lib/jackson-core-2.8.7.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/lib/jackson-databind-2.8.7.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/lib/jcl-over-slf4j-1.7.9.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/lib/joda-time-2.9.9.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/lib/jstl-1.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/lib/log4j-over-slf4j-1.7.9.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/lib/logback-classic-1.2.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/lib/logback-core-1.2.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/lib/mybatis-3.4.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/lib/mybatis-spring-1.3.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/lib/mysql-connector-java-5.1.21.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/lib/slf4j-api-1.7.9.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/lib/spring-aop-4.3.8.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/lib/spring-beans-4.3.8.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/lib/spring-context-4.3.8.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/lib/spring-core-4.3.8.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/lib/spring-expression-4.3.8.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/lib/spring-jdbc-4.3.8.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/lib/spring-test-4.3.8.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/lib/spring-tx-4.3.8.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/lib/spring-web-4.3.8.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/lib/spring-webmvc-4.3.8.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/classes/com/qunar/fresh2017/common/SingletonSqlSessionFactory.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/classes/com/qunar/fresh2017/controller/UserController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/classes/com/qunar/fresh2017/dao/TextDiffDao.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/classes/com/qunar/fresh2017/mapper/TextDiffMapper.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/classes/com/qunar/fresh2017/model/TextDiff.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/classes/com/qunar/fresh2017/service/TextService.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/classes/com/qunar/fresh2017/service/impl/TextServiceImpl.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/classes/com/qunar/fresh2017/util/LineProcessorImp.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/classes/com/qunar/fresh2017/util/LoginChecker.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/classes/com/qunar/fresh2017/util/TextComparisionAndDB.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/classes/com/qunar/fresh2017/util/TextComparison.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/classes/com/qunar/fresh2017/util/TextReader.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/test-classes/util/TextComparisionAndDBTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cJSON/encode_exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cJSON/json_test_exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logForOnlineSystem/target/classes/LineProcessorImpl.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logForOnlineSystem/target/classes/Main.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logForOnlineSystem/target/classes/StringTranslator.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/config.stamp.in" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/doc/amazon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/doc/cover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/doc/logo.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/etc/lua.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/test/life.lua" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/wjt_test/file_test_exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/wjt_test/pthread_cond_test_exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170622/target/classes/wjt/common/SingletonSqlSessionFactory.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170622/target/classes/wjt/controller/HelloReaderController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170622/target/classes/wjt/dao/UserDao.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170622/target/classes/wjt/interceptor/Interceptor.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170622/target/classes/wjt/interceptor/InterceptorImpl.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170622/target/classes/wjt/mapper/UserMapper.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170622/target/classes/wjt/model/User.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170622/target/classes/wjt/myconfig/MyConfigure.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/target/classes/springInAction_c1/BraveKnight.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/target/classes/springInAction_c1/Knight.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/target/classes/springInAction_c1/Minstrel.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/target/classes/springInAction_c1/Quest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/target/classes/springInAction_c1/RescueDamselQuest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/target/classes/springInAction_c1/SlayDragonQuest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/target/classes/springInAction_c2/Juggler.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/target/classes/springInAction_c2/PerformanceException.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/target/classes/springInAction_c2/Performer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/target/classes/springInAction_c3/Guitar.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/target/classes/springInAction_c3/Instrument.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/target/classes/springInAction_c3/Instrumentalist.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/target/classes/springInAction_c3/MyConfigure.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/target/classes/springInAction_c3/Saxophone.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/target/classes/springInAction_c4/Audience.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/target/classes/springInAction_c4/Guitar.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/target/classes/springInAction_c4/Instrument.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/target/classes/springInAction_c4/Instrumentalist.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/target/classes/springInAction_c4/Magician.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/target/classes/springInAction_c4/MindReader.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/target/classes/springInAction_c4/MyConfigure.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/target/classes/springInAction_c4/PerformanceException.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/target/classes/springInAction_c4/Performer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/target/classes/springInAction_c4/Saxophone.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/target/classes/springInAction_c4/Thinker.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/target/classes/springInAction_c4/Volunteer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/target/classes/springInAction_c5/MyDao.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/target/classes/springInAction_c5/MyDaoImpl$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/target/classes/springInAction_c5/MyDaoImpl.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/target/classes/springInAction_c5/UserModel.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/Spider_170802_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/Spider_170802_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/onduty_table_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/onduty_table_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/springMVC170622_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/springMVC170622_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/springMVC170623_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/springMVC170623_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/springMVC_170726_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/springMVC_170726_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/.idea/artifacts/Exam3_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/.idea/artifacts/Exam3_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/.idea/kotlinc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/.idea/libraries/Maven__junit_junit_4_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/.idea/libraries/Maven__org_mybatis_mybatis_3_4_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/Exam3.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/readMe.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/src/main/java/com/qunar/fresh2017/common/SingletonSqlSessionFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/src/main/java/com/qunar/fresh2017/controller/UserController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/src/main/java/com/qunar/fresh2017/dao/TextDiffDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/src/main/java/com/qunar/fresh2017/mapper/TextDiffMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/src/main/java/com/qunar/fresh2017/model/TextDiff.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/src/main/java/com/qunar/fresh2017/service/TextService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/src/main/java/com/qunar/fresh2017/service/impl/TextServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/src/main/java/com/qunar/fresh2017/util/LineProcessorImp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/src/main/java/com/qunar/fresh2017/util/LoginChecker.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/src/main/java/com/qunar/fresh2017/util/TextComparisionAndDB.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/src/main/java/com/qunar/fresh2017/util/TextComparison.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/src/main/java/com/qunar/fresh2017/util/TextReader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/src/main/resources/account.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/src/main/resources/jdbc.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/src/main/resources/logback.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/src/main/resources/mapper/TextDiff.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/src/main/resources/mybatis-config.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/src/main/resources/spring/spring-mybatis.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/src/main/resources/spring/springmvc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/src/main/resources/text/src1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/src/main/resources/text/src2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/src/main/resources/text/src3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/src/main/resources/text/src4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/src/main/resources/text/src5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/src/main/resources/text/src6.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/src/main/resources/text/target1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/src/main/resources/text/target2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/src/main/resources/text/target3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/src/main/resources/text/target4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/src/main/resources/text/target5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/src/main/resources/text/target6.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/src/main/resources/textdiff.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/src/main/webapp/WEB-INF/pages/message.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/src/main/webapp/WEB-INF/pages/upload.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/src/main/webapp/WEB-INF/pages/uploadPost.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/src/main/webapp/WEB-INF/pages/uploadPost2.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/src/main/webapp/WEB-INF/pages/userForm.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/src/main/webapp/WEB-INF/pages/userResult.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/src/main/webapp/WEB-INF/springmvc-servlet.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/src/main/webapp/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/src/main/webapp/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/src/test/util/TextComparisionAndDBTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/META-INF/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/classes/account.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/classes/jdbc.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/classes/logback.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/classes/mapper/TextDiff.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/classes/mybatis-config.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/classes/spring/spring-mybatis.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/classes/spring/springmvc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/classes/text/src1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/classes/text/src2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/classes/text/src3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/classes/text/src4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/classes/text/src5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/classes/text/src6.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/classes/text/target1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/classes/text/target2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/classes/text/target3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/classes/text/target4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/classes/text/target5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/classes/text/target6.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/classes/textdiff.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/pages/message.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/pages/upload.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/pages/uploadPost.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/pages/uploadPost2.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/pages/userForm.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/pages/userResult.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/springmvc-servlet.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/classes/account.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/classes/jdbc.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/classes/logback.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/classes/mapper/TextDiff.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/classes/mybatis-config.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/classes/spring/spring-mybatis.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/classes/spring/springmvc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/classes/text/src1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/classes/text/src2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/classes/text/src3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/classes/text/src4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/classes/text/src5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/classes/text/src6.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/classes/text/target1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/classes/text/target2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/classes/text/target3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/classes/text/target4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/classes/text/target5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/classes/text/target6.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170623/Exam3/target/classes/textdiff.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Spider_170802/Spider_170802.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Spider_170802/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Spider_170802/src/main/webapp/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Spider_170802/src/main/webapp/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cJSON/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cJSON/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cJSON/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cJSON/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cJSON/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cJSON/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cJSON/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cJSON/cJSON.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cJSON/cJSON.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cJSON/encode.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cJSON/json_test.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cJSON/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cJSON/rbtree.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cJSON/test.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cJSON/tests/test1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cJSON/tests/test2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cJSON/tests/test3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cJSON/tests/test4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cJSON/tests/test5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cJSON/utf8.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cJSON/wjt_train_170622.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo4/demo4.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo4/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo4/src/main/java/com/qunar/frc/demo4/controller/HotelBookInfoController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo4/src/main/java/com/qunar/frc/demo4/model/HotelBookInfoModel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo4/src/main/java/com/qunar/frc/demo4/util/DateTimeJsonSerializer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo4/src/main/resources/applicationContext.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo4/src/main/resources/jdbc.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo4/src/main/resources/logback.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo4/src/main/resources/mybatis/mybatis-config.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo4/src/main/resources/spring/spring-mvc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo4/src/main/resources/spring/spring-mybatis.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo4/src/main/webapp/WEB-INF/springmvc-servlet.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo4/src/main/webapp/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo4/src/main/webapp/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo5/demo5.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo5/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo5/src/main/java/com/qunar/frc/demo5/common/FooTx.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo5/src/main/java/com/qunar/frc/demo5/controller/package-info.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo5/src/main/java/com/qunar/frc/demo5/dao/bar/CatDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo5/src/main/java/com/qunar/frc/demo5/dao/foo/DogDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo5/src/main/java/com/qunar/frc/demo5/dao/package-info.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo5/src/main/java/com/qunar/frc/demo5/model/CatModel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo5/src/main/java/com/qunar/frc/demo5/model/DogModel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo5/src/main/java/com/qunar/frc/demo5/service/CatService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo5/src/main/java/com/qunar/frc/demo5/service/DogService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo5/src/main/java/com/qunar/frc/demo5/service/impl/CatServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo5/src/main/java/com/qunar/frc/demo5/service/impl/DogServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo5/src/main/resources/jdbc.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo5/src/main/resources/logback.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo5/src/main/resources/mappers/bar/catMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo5/src/main/resources/mappers/foo/dogMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo5/src/main/resources/mybatisconfig/mybatis-config-bar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo5/src/main/resources/mybatisconfig/mybatis-config-foo.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo5/src/main/resources/spring/applicationContext.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo5/src/main/resources/spring/spring-mybatis-bar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo5/src/main/resources/spring/spring-mybatis-foo.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo5/src/main/sql/sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo5/src/test/java/com/qunar/frc/demo5/service/impl/CatServiceImplTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo5/src/test/java/com/qunar/frc/demo5/service/impl/DogServiceImplTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logForOnlineSystem/logForOnlineSystem.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logForOnlineSystem/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logForOnlineSystem/src.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logForOnlineSystem/src/main/java/LineProcessorImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logForOnlineSystem/src/main/java/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logForOnlineSystem/src/main/java/StringTranslator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logForOnlineSystem/src/main/java/dest.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logForOnlineSystem/src/main/java/src.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logForOnlineSystem/src/main/resources/src.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logForOnlineSystem/target/classes/src.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/onduty_table/onduty_table.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/onduty_table/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/onduty_table/src/main/java/com/qunar/crm/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/onduty_table/src/main/java/com/qunar/crm/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/onduty_table/src/main/java/com/qunar/crm/dao/EmployeeListOnDutyDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/onduty_table/src/main/java/com/qunar/crm/model/EmployeeListOnDuty.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/onduty_table/src/main/java/com/qunar/crm/model/EmployeeOnDuty.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/onduty_table/src/main/java/com/qunar/crm/myannotation/Annotation_my.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/onduty_table/src/main/java/com/qunar/crm/myannotation/MyAnno.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/onduty_table/src/main/java/com/qunar/crm/myannotation/MyClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/onduty_table/src/main/java/com/qunar/crm/myannotation/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/onduty_table/src/main/java/com/qunar/crm/myannotation/Student.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/onduty_table/src/main/java/com/qunar/crm/service/EmployeeListOnDutyService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/onduty_table/src/main/java/com/qunar/crm/service/EmployeeListOnDutyService2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/onduty_table/src/main/java/com/qunar/crm/service/impl/EmployeeListOnDutyServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/onduty_table/src/main/resources/db.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/onduty_table/src/main/resources/jdbc.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/onduty_table/src/main/resources/logback.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/onduty_table/src/main/resources/mapper/EmployeeListOnDutyDao.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/onduty_table/src/main/resources/spring/spring_mybatis.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/onduty_table/src/main/webapp/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/onduty_table/src/main/webapp/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/onduty_table/src/test/com/qunar/crm/service/EmployeeListOnDutyService2Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/onduty_table/src/test/com/qunar/crm/service/allclasses-frame.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/onduty_table/src/test/com/qunar/crm/service/allclasses-noframe.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/onduty_table/src/test/com/qunar/crm/service/com/qunar/crm/service/EmployeeListOnDutyService2Test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/onduty_table/src/test/com/qunar/crm/service/com/qunar/crm/service/package-frame.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/onduty_table/src/test/com/qunar/crm/service/com/qunar/crm/service/package-summary.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/onduty_table/src/test/com/qunar/crm/service/com/qunar/crm/service/package-tree.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/onduty_table/src/test/com/qunar/crm/service/constant-values.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/onduty_table/src/test/com/qunar/crm/service/deprecated-list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/onduty_table/src/test/com/qunar/crm/service/help-doc.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/onduty_table/src/test/com/qunar/crm/service/index-all.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/onduty_table/src/test/com/qunar/crm/service/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/onduty_table/src/test/com/qunar/crm/service/overview-tree.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/onduty_table/src/test/com/qunar/crm/service/package-list" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/onduty_table/src/test/com/qunar/crm/service/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/onduty_table/src/test/com/qunar/crm/service/stylesheet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/onduty_table/target/classes/db.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/onduty_table/target/classes/jdbc.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/onduty_table/target/classes/logback.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/onduty_table/target/classes/mapper/EmployeeListOnDutyDao.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/onduty_table/target/classes/spring/spring_mybatis.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/redis26_hjh.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/00-RELEASENOTES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/BUGS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/CONTRIBUTING" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/COPYING" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/Changelog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/INSTALL" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/MANIFESTO" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/ORIGINAL_README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/README.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/hiredis/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/hiredis/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/hiredis/COPYING" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/hiredis/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/hiredis/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/hiredis/adapters/ae.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/hiredis/adapters/libev.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/hiredis/adapters/libevent.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/hiredis/async.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/hiredis/async.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/hiredis/dict.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/hiredis/dict.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/hiredis/example-ae.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/hiredis/example-libev.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/hiredis/example-libevent.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/hiredis/example.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/hiredis/fmacros.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/hiredis/hiredis.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/hiredis/hiredis.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/hiredis/net.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/hiredis/net.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/hiredis/sds.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/hiredis/sds.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/hiredis/test.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/COPYING" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/ChangeLog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/INSTALL" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/Makefile.in" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/autogen.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/bin/jemalloc.sh.in" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/bin/pprof" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/config.guess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/config.sub" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/configure.ac" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/doc/html.xsl.in" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/doc/jemalloc.xml.in" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/doc/manpages.xsl.in" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/doc/stylesheet.xsl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/include/jemalloc/internal/arena.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/include/jemalloc/internal/atomic.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/include/jemalloc/internal/base.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/include/jemalloc/internal/bitmap.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/include/jemalloc/internal/chunk.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/include/jemalloc/internal/chunk_dss.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/include/jemalloc/internal/chunk_mmap.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/include/jemalloc/internal/ckh.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/include/jemalloc/internal/ctl.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/include/jemalloc/internal/extent.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/include/jemalloc/internal/hash.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/include/jemalloc/internal/huge.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/include/jemalloc/internal/jemalloc_internal.h.in" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/include/jemalloc/internal/mb.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/include/jemalloc/internal/mutex.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/include/jemalloc/internal/private_namespace.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/include/jemalloc/internal/prng.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/include/jemalloc/internal/prof.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/include/jemalloc/internal/ql.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/include/jemalloc/internal/qr.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/include/jemalloc/internal/quarantine.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/include/jemalloc/internal/rb.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/include/jemalloc/internal/rtree.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/include/jemalloc/internal/size_classes.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/include/jemalloc/internal/stats.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/include/jemalloc/internal/tcache.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/include/jemalloc/internal/tsd.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/include/jemalloc/internal/util.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/include/jemalloc/jemalloc.h.in" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/include/jemalloc/jemalloc_defs.h.in" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/include/msvc_compat/inttypes.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/include/msvc_compat/stdbool.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/include/msvc_compat/stdint.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/include/msvc_compat/strings.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/install-sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/src/arena.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/src/atomic.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/src/base.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/src/bitmap.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/src/chunk.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/src/chunk_dss.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/src/chunk_mmap.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/src/ckh.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/src/ctl.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/src/extent.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/src/hash.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/src/huge.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/src/jemalloc.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/src/mb.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/src/mutex.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/src/prof.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/src/quarantine.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/src/rtree.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/src/stats.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/src/tcache.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/src/tsd.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/src/util.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/src/zone.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/test/ALLOCM_ARENA.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/test/ALLOCM_ARENA.exp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/test/aligned_alloc.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/test/aligned_alloc.exp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/test/allocated.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/test/allocated.exp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/test/allocm.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/test/allocm.exp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/test/bitmap.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/test/bitmap.exp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/test/mremap.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/test/mremap.exp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/test/posix_memalign.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/test/posix_memalign.exp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/test/rallocm.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/test/rallocm.exp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/test/thread_arena.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/test/thread_arena.exp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/test/thread_tcache_enabled.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/jemalloc/test/thread_tcache_enabled.exp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/linenoise/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/linenoise/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/linenoise/README.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/linenoise/example.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/linenoise/linenoise.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/linenoise/linenoise.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/COPYRIGHT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/HISTORY" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/INSTALL" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/doc/contents.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/doc/lua.1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/doc/lua.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/doc/lua.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/doc/luac.1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/doc/luac.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/doc/manual.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/doc/manual.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/doc/readme.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/etc/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/etc/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/etc/all.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/etc/lua.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/etc/lua.pc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/etc/luavs.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/etc/min.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/etc/noparser.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/etc/strict.lua" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/src/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/src/lapi.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/src/lapi.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/src/lauxlib.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/src/lauxlib.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/src/lbaselib.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/src/lcode.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/src/lcode.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/src/ldblib.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/src/ldebug.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/src/ldebug.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/src/ldo.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/src/ldo.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/src/ldump.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/src/lfunc.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/src/lfunc.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/src/lgc.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/src/lgc.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/src/linit.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/src/liolib.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/src/llex.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/src/llex.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/src/llimits.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/src/lmathlib.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/src/lmem.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/src/lmem.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/src/loadlib.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/src/lobject.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/src/lobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/src/lopcodes.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/src/lopcodes.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/src/loslib.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/src/lparser.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/src/lparser.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/src/lstate.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/src/lstate.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/src/lstring.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/src/lstring.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/src/lstrlib.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/src/ltable.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/src/ltable.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/src/ltablib.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/src/ltm.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/src/ltm.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/src/lua.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/src/lua.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/src/lua_cjson.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/src/lua_cmsgpack.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/src/lua_struct.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/src/luac.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/src/luaconf.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/src/lualib.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/src/lundump.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/src/lundump.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/src/lvm.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/src/lvm.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/src/lzio.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/src/lzio.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/src/print.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/src/strbuf.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/src/strbuf.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/test/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/test/bisect.lua" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/test/cf.lua" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/test/echo.lua" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/test/env.lua" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/test/factorial.lua" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/test/fib.lua" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/test/fibfor.lua" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/test/globals.lua" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/test/hello.lua" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/test/luac.lua" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/test/printf.lua" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/test/readonly.lua" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/test/sieve.lua" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/test/sort.lua" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/test/table.lua" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/test/trace-calls.lua" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/test/trace-globals.lua" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/deps/lua/test/xd.lua" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/redis.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/runtest" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/sentinel.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/Makefile.dep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/adlist.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/adlist.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/ae.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/ae.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/ae_epoll.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/ae_evport.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/ae_kqueue.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/ae_select.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/anet.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/anet.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/aof.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/asciilogo.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/bio.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/bio.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/bitops.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/cluster.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/config.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/config.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/crc16.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/crc64.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/crc64.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/db.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/debug.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/dict.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/dict.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/endianconv.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/endianconv.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/fmacros.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/help.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/intset.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/intset.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/lzf.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/lzfP.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/lzf_c.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/lzf_d.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/memtest.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/mkreleasehdr.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/multi.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/networking.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/nohup.out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/object.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/pqsort.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/pqsort.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/pubsub.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/rand.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/rand.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/rdb.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/rdb.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/redis.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/redis.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/release.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/replication.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/rio.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/rio.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/scripting.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/sds.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/sds.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/sentinel.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/sha1.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/sha1.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/slowlog.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/slowlog.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/solarisfixes.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/sort.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/syncio.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/t_hash.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/t_list.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/t_set.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/t_string.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/t_zset.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/testhelp.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/util.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/util.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/valgrind.sup" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/version.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/ziplist.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/ziplist.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/zipmap.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/zipmap.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/zmalloc.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/src/zmalloc.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/tests/assets/default.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/tests/helpers/bg_complex_data.tcl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/tests/helpers/gen_write_load.tcl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/tests/integration/aof-race.tcl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/tests/integration/aof.tcl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/tests/integration/convert-zipmap-hash-on-load.tcl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/tests/integration/rdb.tcl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/tests/integration/replication-2.tcl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/tests/integration/replication-3.tcl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/tests/integration/replication-4.tcl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/tests/integration/replication.tcl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/tests/support/redis.tcl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/tests/support/server.tcl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/tests/support/test.tcl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/tests/support/tmpfile.tcl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/tests/support/util.tcl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/tests/test_helper.tcl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/tests/unit/aofrw.tcl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/tests/unit/auth.tcl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/tests/unit/basic.tcl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/tests/unit/bitops.tcl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/tests/unit/dump.tcl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/tests/unit/expire.tcl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/tests/unit/introspection.tcl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/tests/unit/limits.tcl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/tests/unit/maxmemory.tcl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/tests/unit/multi.tcl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/tests/unit/obuf-limits.tcl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/tests/unit/other.tcl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/tests/unit/printver.tcl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/tests/unit/protocol.tcl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/tests/unit/pubsub.tcl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/tests/unit/quit.tcl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/tests/unit/scripting.tcl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/tests/unit/slowlog.tcl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/tests/unit/sort.tcl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/tests/unit/type/hash.tcl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/tests/unit/type/list-2.tcl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/tests/unit/type/list-3.tcl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/tests/unit/type/list-common.tcl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/tests/unit/type/list.tcl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/tests/unit/type/set.tcl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/tests/unit/type/zset.tcl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/utils/build-static-symbols.tcl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/utils/generate-command-help.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/utils/install_server.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/utils/mkrelease.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/utils/redis_init_script" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/utils/redis_init_script.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/utils/speed-regression.tcl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/annotated_redis26/utils/whatisdoing.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/wjt_test/file_test.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis26_hjh/src/wjt_test/pthread_cond_test.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/redis_test.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/redis-Code-master.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/.gitattributes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/READ_ME.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/baseinfo/asciilogo.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/baseinfo/version.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/data/aof.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/data/config.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/data/config.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/data/db.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/data/multi.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/data/rdb.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/data/rdb.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/data/replication.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/event/ae.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/event/ae.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/event/ae_epoll.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/event/ae_evport.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/event/ae_kqueue.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/event/ae_select.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/main/redis-cli.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/main/redis.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/main/redis.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/net/anet.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/net/anet.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/net/networking.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/struct/adlist.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/struct/adlist.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/struct/dict.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/struct/dict.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/struct/sds.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/struct/sds.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/struct/sparkline.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/struct/sparkline.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/struct/t_hash.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/struct/t_list.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/struct/t_set.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/struct/t_string.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/struct/t_zset.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/struct/ziplist.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/struct/ziplist.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/struct/zipmap.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/struct/zipmap.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/test/memtest.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/test/redis-benchmark.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/test/redis-check-aof.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/test/redis-check-dump.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/test/testhelp.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/tool/bitops.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/tool/crc64.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/tool/crc64.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/tool/debug.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/tool/endianconv.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/tool/endianconv.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/tool/help.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/tool/lzf.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/tool/lzfP.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/tool/lzf_c.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/tool/lzf_d.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/tool/rand.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/tool/rand.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/tool/release.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/tool/sha1.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/tool/sha1.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/tool/util.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/tool/util.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/wrapper/bio.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/wrapper/bio.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/wrapper/latency.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/wrapper/latency.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/wrapper/notify.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/wrapper/object.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/wrapper/pubsub.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/wrapper/rio.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/wrapper/rio.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/wrapper/slowlog.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/wrapper/slowlog.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/wrapper/zmalloc.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis_test/src/main/redis-Code-master/src/Redis-Code-master/wrapper/zmalloc.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/score170710/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/score170710/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/score170710/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/score170710/src/main/java/com/qunar/fresh2017/HelloAction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/score170710/src/main/java/com/qunar/fresh2017/controller/PointsDetailController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/score170710/src/main/java/com/qunar/fresh2017/dao/EmployeePointsDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/score170710/src/main/java/com/qunar/fresh2017/model/EmployeePointsModel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/score170710/src/main/java/com/qunar/fresh2017/model/QueryPointDetailModel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/score170710/src/main/java/com/qunar/fresh2017/model/QueryPointDetailResult.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/score170710/src/main/java/com/qunar/fresh2017/model/UserModel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/score170710/src/main/java/com/qunar/fresh2017/service/EmployeePointsService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/score170710/src/main/java/com/qunar/fresh2017/service/impl/EmployeePointsServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/score170710/src/main/java/com/qunar/fresh2017/support/QtownUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/score170710/src/main/java/com/qunar/fresh2017/support/ReturnMessage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/score170710/src/main/resources/logback.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/score170710/src/main/resources/mybatis/mapper/EmployeePointsDao.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/score170710/src/main/resources/mybatis/mybatis.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/score170710/src/main/resources/qunar-app.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/score170710/src/main/resources/spring/dubbo-customer.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/score170710/src/main/resources/spring/spring-mvc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/score170710/src/main/resources/spring/spring-mybatis.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/score170710/src/main/webapp/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/score170710/src/main/webapp/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/score170710/src/test/java/com/qunar/fresh2017/controller/PointsDetailControllerTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/score170710/src/test/java/com/qunar/fresh2017/dao/EmployeePointsDaoTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170622/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170622/springMVC170622.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170622/src/main/java/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170622/src/main/java/wjt/common/SingletonSqlSessionFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170622/src/main/java/wjt/controller/HelloReaderController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170622/src/main/java/wjt/dao/UserDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170622/src/main/java/wjt/interceptor/Interceptor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170622/src/main/java/wjt/interceptor/InterceptorImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170622/src/main/java/wjt/mapper/UserMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170622/src/main/java/wjt/model/User.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170622/src/main/java/wjt/myconfig/MyConfigure.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170622/src/main/resources/aop/aop.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170622/src/main/resources/db.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170622/src/main/resources/jdbc.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170622/src/main/resources/logback.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170622/src/main/resources/mapper/User.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170622/src/main/resources/mybatis-config.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170622/src/main/resources/spring_aop/interceptor.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170622/src/main/webapp/WEB-INF/pages/AddUser.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170622/src/main/webapp/WEB-INF/pages/helloReader.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170622/src/main/webapp/WEB-INF/springMVC170622_servlet-servlet.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170622/src/main/webapp/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170622/src/test/wjt/interceptor/InterceptorTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170622/target/classes/aop/aop.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170622/target/classes/db.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170622/target/classes/jdbc.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170622/target/classes/logback.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170622/target/classes/mapper/User.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170622/target/classes/mybatis-config.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170622/target/classes/spring_aop/interceptor.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170623/.idea/artifacts/springMVC170623_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170623/.idea/artifacts/springMVC170623_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170623/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170623/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170623/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170623/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170623/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170623/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170623/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170623/.idea/libraries/Maven__commons_dbcp_commons_dbcp_1_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170623/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170623/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170623/.idea/libraries/Maven__commons_pool_commons_pool_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170623/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170623/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170623/.idea/libraries/Maven__joda_time_joda_time_2_9_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170623/.idea/libraries/Maven__junit_junit_4_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170623/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_21.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170623/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170623/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170623/.idea/libraries/Maven__org_mybatis_mybatis_3_4_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170623/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170623/.idea/libraries/Maven__org_projectlombok_lombok_1_16_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170623/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170623/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170623/.idea/libraries/Maven__org_springframework_spring_aop_4_3_8_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170623/.idea/libraries/Maven__org_springframework_spring_test_4_3_8_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170623/.idea/libraries/Maven__org_springframework_spring_web_4_3_8_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170623/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_8_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170623/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170623/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170623/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170623/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170623/springMVC170623.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170623/src/main/java/wjt/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170623/src/main/java/wjt/controller/HelloReaderController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170623/src/main/java/wjt/mapper/TextDiffMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170623/src/main/java/wjt/model/TextDiff.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170623/src/main/java/wjt/service/TextDiffService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170623/src/main/java/wjt/service/impl/TextDiffServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170623/src/main/resources/account.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170623/src/main/resources/aop/aop.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170623/src/main/resources/jdbc.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170623/src/main/resources/logback.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170623/src/main/resources/mapper/TextDiffMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170623/src/main/resources/spring/spring-mybatis.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170623/src/main/resources/sql/textdiff.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170623/src/main/webapp/WEB-INF/pages/AddUser.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170623/src/main/webapp/WEB-INF/pages/addTextDiff.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170623/src/main/webapp/WEB-INF/pages/helloReader.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170623/src/main/webapp/WEB-INF/springMVC170623_servlet-servlet.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170623/src/main/webapp/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC170623/src/main/webapp/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/springMVC_170726.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/src/main/java/springInAction_c1/BraveKnight.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/src/main/java/springInAction_c1/Knight.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/src/main/java/springInAction_c1/Minstrel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/src/main/java/springInAction_c1/Quest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/src/main/java/springInAction_c1/RescueDamselQuest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/src/main/java/springInAction_c1/SlayDragonQuest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/src/main/java/springInAction_c2/Juggler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/src/main/java/springInAction_c2/PerformanceException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/src/main/java/springInAction_c2/Performer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/src/main/java/springInAction_c3/Guitar.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/src/main/java/springInAction_c3/Instrument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/src/main/java/springInAction_c3/Instrumentalist.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/src/main/java/springInAction_c3/MyConfigure.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/src/main/java/springInAction_c3/Saxophone.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/src/main/java/springInAction_c4/Audience.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/src/main/java/springInAction_c4/Guitar.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/src/main/java/springInAction_c4/Instrument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/src/main/java/springInAction_c4/Instrumentalist.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/src/main/java/springInAction_c4/Magician.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/src/main/java/springInAction_c4/MindReader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/src/main/java/springInAction_c4/MyConfigure.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/src/main/java/springInAction_c4/PerformanceException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/src/main/java/springInAction_c4/Performer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/src/main/java/springInAction_c4/Saxophone.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/src/main/java/springInAction_c4/Thinker.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/src/main/java/springInAction_c4/Volunteer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/src/main/java/springInAction_c5/MyDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/src/main/java/springInAction_c5/MyDaoImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/src/main/java/springInAction_c5/UserModel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/src/main/resources/c3/autoscan.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/src/main/resources/c3/autowired.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/src/main/resources/c4/c4_aop.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/src/main/resources/c5/c5_aop.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/src/main/resources/c5/jdbc.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/src/main/resources/c5/logback.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/src/main/resources/knights-aop.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/src/main/resources/knights.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/src/main/resources/performer_c2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/src/main/resources/performer_c2_aop.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/src/main/webapp/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/src/main/webapp/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/src/test/springInAction_c1/BraveKnightTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/src/test/springInAction_c2/PerformerTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/src/test/springInAction_c3/InstrumentTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/src/test/springInAction_c3/MyConfigureTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/src/test/springInAction_c4/AudienceTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/src/test/springInAction_c5/MyDaoImplTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/target/classes/c3/autoscan.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/target/classes/c3/autowired.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/target/classes/c4/c4_aop.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/target/classes/c5/c5_aop.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/target/classes/c5/jdbc.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/target/classes/c5/logback.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/target/classes/knights-aop.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/target/classes/knights.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/target/classes/performer_c2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/target/classes/performer_c2_aop.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springMVC_170726/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wjt_train_170622.iml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_dbcp2_2_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_all_1_8_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_1_8_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_1_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_3_8_RELEASE.xml" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterPath="$PROJECT_DIR$/20170623/Exam3/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterPath="$PROJECT_DIR$/20170623/Exam3/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_0_1.xml" afterPath="$PROJECT_DIR$/20170623/Exam3/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_0_1.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_9_7.xml" afterPath="$PROJECT_DIR$/20170623/Exam3/.idea/libraries/Maven__joda_time_joda_time_2_9_9.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_40.xml" afterPath="$PROJECT_DIR$/20170623/Exam3/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_21.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_9.xml" afterPath="$PROJECT_DIR$/20170623/Exam3/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_9.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_0.xml" afterPath="$PROJECT_DIR$/20170623/Exam3/.idea/libraries/Maven__org_projectlombok_lombok_1_16_8.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_9.xml" afterPath="$PROJECT_DIR$/20170623/Exam3/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_9.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_9.xml" afterPath="$PROJECT_DIR$/20170623/Exam3/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_9.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_8_RELEASE.xml" afterPath="$PROJECT_DIR$/20170623/Exam3/.idea/libraries/Maven__org_springframework_spring_aop_4_3_8_RELEASE.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_3_2_6_RELEASE.xml" afterPath="$PROJECT_DIR$/springMVC170623/.idea/libraries/Maven__org_springframework_spring_beans_4_3_8_RELEASE.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_8_RELEASE.xml" afterPath="$PROJECT_DIR$/20170623/Exam3/.idea/libraries/Maven__org_springframework_spring_beans_4_3_8_RELEASE.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_3_2_6_RELEASE.xml" afterPath="$PROJECT_DIR$/springMVC170623/.idea/libraries/Maven__org_springframework_spring_context_4_3_8_RELEASE.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_8_RELEASE.xml" afterPath="$PROJECT_DIR$/20170623/Exam3/.idea/libraries/Maven__org_springframework_spring_context_4_3_8_RELEASE.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_3_2_6_RELEASE.xml" afterPath="$PROJECT_DIR$/springMVC170623/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_8_RELEASE.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_8_RELEASE.xml" afterPath="$PROJECT_DIR$/20170623/Exam3/.idea/libraries/Maven__org_springframework_spring_core_4_3_8_RELEASE.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_3_2_6_RELEASE.xml" afterPath="$PROJECT_DIR$/springMVC170623/.idea/libraries/Maven__org_springframework_spring_expression_4_3_8_RELEASE.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_8_RELEASE.xml" afterPath="$PROJECT_DIR$/20170623/Exam3/.idea/libraries/Maven__org_springframework_spring_expression_4_3_8_RELEASE.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_3_1_4_RELEASE.xml" afterPath="$PROJECT_DIR$/springMVC170623/.idea/libraries/Maven__org_springframework_spring_core_4_3_8_RELEASE.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_8_RELEASE.xml" afterPath="$PROJECT_DIR$/20170623/Exam3/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_8_RELEASE.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_3_8_RELEASE.xml" afterPath="$PROJECT_DIR$/20170623/Exam3/.idea/libraries/Maven__org_springframework_spring_test_4_3_8_RELEASE.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_3_1_4_RELEASE.xml" afterPath="$PROJECT_DIR$/springMVC170623/.idea/libraries/Maven__org_springframework_spring_tx_4_3_8_RELEASE.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_3_8_RELEASE.xml" afterPath="$PROJECT_DIR$/20170623/Exam3/.idea/libraries/Maven__org_springframework_spring_tx_4_3_8_RELEASE.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_8_RELEASE.xml" afterPath="$PROJECT_DIR$/20170623/Exam3/.idea/libraries/Maven__org_springframework_spring_web_4_3_8_RELEASE.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_8_RELEASE.xml" afterPath="$PROJECT_DIR$/20170623/Exam3/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_8_RELEASE.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frc_170624_2/score" afterPath="$PROJECT_DIR$/frc_170624_2/score" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/score170624" afterPath="$PROJECT_DIR$/score170624" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
-    <ignored path="$PROJECT_DIR$/onduty_table/target/" />
-    <ignored path="$PROJECT_DIR$/springMVC_170726/target/" />
-    <ignored path="$PROJECT_DIR$/logForOnlineSystem/target/" />
-    <ignored path="$PROJECT_DIR$/springMVC170623/target/" />
-    <ignored path="$PROJECT_DIR$/Spider_170802/target/" />
     <ignored path="$PROJECT_DIR$/redis26_hjh/target/" />
-    <ignored path="$PROJECT_DIR$/redis_test/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/onduty_table/target/" />
     <ignored path="$PROJECT_DIR$/springMVC170622/target/" />
+    <ignored path="$PROJECT_DIR$/springMVC_170726/target/" />
+    <ignored path="$PROJECT_DIR$/redis_test/target/" />
+    <ignored path="$PROJECT_DIR$/Spider_170802/target/" />
+    <ignored path="$PROJECT_DIR$/springMVC170623/target/" />
+    <ignored path="$PROJECT_DIR$/logForOnlineSystem/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,24 +1046,31 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springMVC_170726/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -57,11 +1086,53 @@
       <projects_view />
     </option>
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="wjt_train_170622" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="wjt_train_170622" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Lifecycle" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="57" />
@@ -85,8 +1156,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -113,80 +1182,16 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wjt_train_170622" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wjt_train_170622" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="springMVC_170726" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wjt_train_170622" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wjt_train_170622" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="springMVC_170726" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wjt_train_170622" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wjt_train_170622" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="springMVC_170726" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -206,6 +1211,61 @@
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
       <method />
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -231,6 +1291,160 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/usr/bin/flashplayerdebugger" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/usr/bin/flashplayerdebugger" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <method />
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -252,12 +1466,102 @@
       <patterns />
       <method />
     </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="redis26_hjh" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -288,31 +1592,48 @@
       <listeners />
       <method />
     </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="bb87ac44-6edf-446b-82c1-63bf6bb26bf1" name="Default" comment="" />
-      <created>1501831236551</created>
+      <changelist id="a7ac483e-8ea7-42df-b34f-83b1d7f5dc1e" name="Default" comment="" />
+      <created>1501835009535</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1501831236551</updated>
-      <workItem from="1501831239384" duration="971000" />
+      <updated>1501835009535</updated>
+      <workItem from="1501835012607" duration="610000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1112000" />
+    <option name="totallyTimeSpent" value="610000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="57" y="-4" width="1863" height="1084" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32984003" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -324,46 +1645,23 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32845187" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2498621" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32983193" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32983193" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2498621" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32983193" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2498621" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -376,60 +1674,31 @@
     <breakpoint-manager />
     <watches-manager />
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wjt_train_170622.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dest.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="729">
-          <caret line="358" column="10" lean-forward="true" selection-start-line="358" selection-start-column="10" selection-end-line="358" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wjt_train_170622.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dest.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springMVC_170726/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding />
         </state>
       </provider>

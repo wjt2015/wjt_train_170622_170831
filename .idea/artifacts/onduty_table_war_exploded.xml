@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="onduty_table:war exploded">
+    <output-path>$PROJECT_DIR$/onduty_table/target/onduty_table</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="onduty_table" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/onduty_table/target/onduty_table/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="onduty_table/web/Web" />
+    </root>
+  </artifact>
+</component>

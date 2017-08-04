@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Spider_170802/Spider_170802.iml" filepath="$PROJECT_DIR$/Spider_170802/Spider_170802.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logForOnlineSystem/logForOnlineSystem.iml" filepath="$PROJECT_DIR$/logForOnlineSystem/logForOnlineSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/onduty_table/onduty_table.iml" filepath="$PROJECT_DIR$/onduty_table/onduty_table.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redis_test/redis_test.iml" filepath="$PROJECT_DIR$/redis_test/redis_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springMVC170622/springMVC170622.iml" filepath="$PROJECT_DIR$/springMVC170622/springMVC170622.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springMVC170623/springMVC170623.iml" filepath="$PROJECT_DIR$/springMVC170623/springMVC170623.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springMVC_170726/springMVC_170726.iml" filepath="$PROJECT_DIR$/springMVC_170726/springMVC_170726.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wjt_train_170622.iml" filepath="$PROJECT_DIR$/wjt_train_170622.iml" />
+    </modules>
+  </component>
+</project>
