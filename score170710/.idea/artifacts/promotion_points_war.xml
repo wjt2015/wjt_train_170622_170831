@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="promotion-points:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="promotion-points.war">
+      <element id="artifact" artifact-name="promotion-points:war exploded" />
+    </root>
+  </artifact>
+</component>
