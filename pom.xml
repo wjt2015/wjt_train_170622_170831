@@ -19,6 +19,7 @@
         <module>Spider_170802</module>
         <module>ML_Train</module>
         <module>springInAction_4</module>
+        <module>HowTomcatWorksTest</module>
     </modules>
 
     <properties>

@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="HowTomcatWorksTest" />
         <module name="logForOnlineSystem" />
         <module name="ML_Train" />
         <module name="onduty_table" />
@@ -18,6 +19,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="HowTomcatWorksTest" target="1.5" />
       <module name="logForOnlineSystem" target="1.5" />
       <module name="ML_Train" target="1.5" />
       <module name="onduty_table" target="1.5" />

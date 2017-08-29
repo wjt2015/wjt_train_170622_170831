@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="HowTomcatWorksTest:war exploded">
+    <output-path>$PROJECT_DIR$/HowTomcatWorksTest/target/HowTomcatWorksTest</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="HowTomcatWorksTest" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/HowTomcatWorksTest/target/HowTomcatWorksTest/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="HowTomcatWorksTest/web/Web" />
+    </root>
+  </artifact>
+</component>

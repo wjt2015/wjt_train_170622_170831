@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="HowTomcatWorksTest:war">
+    <output-path>$PROJECT_DIR$/HowTomcatWorksTest/target</output-path>
+    <root id="archive" name="HowTomcatWorksTest.war">
+      <element id="artifact" artifact-name="HowTomcatWorksTest:war exploded" />
+    </root>
+  </artifact>
+</component>

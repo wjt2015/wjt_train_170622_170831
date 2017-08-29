@@ -2,353 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="57e37056-bce2-4446-83a6-52db2aee0ab9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/ML_Train_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/ML_Train_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/springInAction_4_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/springInAction_4_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_0_18.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_23_0_rc1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_dbcp_commons_dbcp_1_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_pool_commons_pool_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_9_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_9_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_21.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_40.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_squirrel_sql_thirdparty_non_maven_java_cup_0_11a.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__nz_ac_waikato_cms_weka_weka_dev_3_7_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_dbcp2_2_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_junit4_runner_5_0_0_ALPHA.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_junit_commons_5_0_0_ALPHA.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_junit_engine_api_5_0_0_ALPHA.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_junit_launcher_5_0_0_ALPHA.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_all_1_8_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_1_8_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_0_0_ALPHA.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_pentaho_pentaho_commons_pentaho_package_manager_1_0_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_8_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_4_3_8_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_3_2_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_8_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_3_2_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_8_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_3_8_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_3_2_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_8_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_3_2_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_8_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_3_1_4_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_8_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_3_8_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_3_1_4_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_3_8_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_8_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_8_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ML_Train/ML_Train.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Spider_170802/src/main/java/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Spider_170802/src/main/webapp/pages/test1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Spider_170802/src/main/webapp/pages/test10.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Spider_170802/src/main/webapp/pages/test11.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Spider_170802/src/main/webapp/pages/test12.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Spider_170802/src/main/webapp/pages/test13.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Spider_170802/src/main/webapp/pages/test14.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Spider_170802/src/main/webapp/pages/test15.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Spider_170802/src/main/webapp/pages/test2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Spider_170802/src/main/webapp/pages/test20.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Spider_170802/src/main/webapp/pages/test22.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Spider_170802/src/main/webapp/pages/test24.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Spider_170802/src/main/webapp/pages/test3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Spider_170802/src/main/webapp/pages/test4.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Spider_170802/src/main/webapp/pages/test5.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Spider_170802/src/main/webapp/pages/test6.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Spider_170802/src/main/webapp/pages/test7.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Spider_170802/src/main/webapp/pages/test8.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Spider_170802/src/main/webapp/pages/test9.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springInAction_4/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springInAction_4/springInAction_4.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springInAction_4/src/main/java/Main/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springInAction_4/src/main/java/aop_concert/Audience.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springInAction_4/src/main/java/aop_concert/Performance.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springInAction_4/src/main/java/c2/CDPlayerConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springInAction_4/src/main/java/c2/CompactDisc.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springInAction_4/src/main/java/c2/SgtPeppers.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springInAction_4/src/main/java/c2/springInAction_c1/BraveKnight.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springInAction_4/src/main/java/c2/springInAction_c1/Knight.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springInAction_4/src/main/java/c2/springInAction_c1/KnightConfiguration.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springInAction_4/src/main/java/c2/springInAction_c1/Minstrel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springInAction_4/src/main/java/c2/springInAction_c1/Quest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springInAction_4/src/main/java/c2/springInAction_c1/RescueDamselQuest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springInAction_4/src/main/java/c2/springInAction_c1/SlayDragonQuest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springInAction_4/src/main/java/c2/springInAction_c2/Juggler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springInAction_4/src/main/java/c2/springInAction_c2/PerformanceException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springInAction_4/src/main/java/c2/springInAction_c2/Performer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springInAction_4/src/main/java/c2/springInAction_c3/Guitar.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springInAction_4/src/main/java/c2/springInAction_c3/Instrument.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springInAction_4/src/main/java/c2/springInAction_c3/InstrumentConfiguration.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springInAction_4/src/main/java/c2/springInAction_c3/Instrumentalist.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springInAction_4/src/main/java/c2/springInAction_c3/Saxophone.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springInAction_4/src/main/java/c2/springInAction_c4/Audience.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springInAction_4/src/main/java/c2/springInAction_c4/Guitar.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springInAction_4/src/main/java/c2/springInAction_c4/Instrument.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springInAction_4/src/main/java/c2/springInAction_c4/Instrumentalist.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springInAction_4/src/main/java/c2/springInAction_c4/Magician.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springInAction_4/src/main/java/c2/springInAction_c4/MindReader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springInAction_4/src/main/java/c2/springInAction_c4/MyConfigure.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springInAction_4/src/main/java/c2/springInAction_c4/PerformanceException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springInAction_4/src/main/java/c2/springInAction_c4/Performer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springInAction_4/src/main/java/c2/springInAction_c4/Saxophone.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springInAction_4/src/main/java/c2/springInAction_c4/Thinker.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springInAction_4/src/main/java/c2/springInAction_c4/Volunteer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springInAction_4/src/main/java/concert_aop/Audience.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springInAction_4/src/main/java/concert_aop/ConcertConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springInAction_4/src/main/java/concert_aop/DramaPerformance.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springInAction_4/src/main/java/concert_aop/Performance.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springInAction_4/src/main/java/myspring/KnightConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springInAction_4/src/main/resources/knight_spring.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springInAction_4/src/test/c2/CDPlayerConfigTest.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3.war" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/META-INF/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/classes/account.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/classes/com/qunar/fresh2017/common/SingletonSqlSessionFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/classes/com/qunar/fresh2017/controller/UserController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/classes/com/qunar/fresh2017/dao/TextDiffDao.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/classes/com/qunar/fresh2017/mapper/TextDiffMapper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/classes/com/qunar/fresh2017/model/TextDiff.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/classes/com/qunar/fresh2017/service/TextService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/classes/com/qunar/fresh2017/service/impl/TextServiceImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/classes/com/qunar/fresh2017/util/LineProcessorImp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/classes/com/qunar/fresh2017/util/LoginChecker.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/classes/com/qunar/fresh2017/util/TextComparisionAndDB.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/classes/com/qunar/fresh2017/util/TextComparison.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/classes/com/qunar/fresh2017/util/TextReader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/classes/jdbc.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/classes/logback.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/classes/mapper/TextDiff.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/classes/mybatis-config.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/classes/spring/spring-mybatis.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/classes/spring/springmvc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/classes/text/src1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/classes/text/src2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/classes/text/src3.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/classes/text/src4.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/classes/text/src5.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/classes/text/src6.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/classes/text/target1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/classes/text/target2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/classes/text/target3.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/classes/text/target4.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/classes/text/target5.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/classes/text/target6.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/classes/textdiff.sql" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/lib/aspectjweaver-1.8.9.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/lib/commons-fileupload-1.3.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/lib/commons-io-2.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/lib/guava-20.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/lib/jackson-annotations-2.8.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/lib/jackson-core-2.8.7.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/lib/jackson-databind-2.8.7.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/lib/jcl-over-slf4j-1.7.9.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/lib/joda-time-2.9.9.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/lib/jstl-1.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/lib/log4j-over-slf4j-1.7.9.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/lib/logback-classic-1.2.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/lib/logback-core-1.2.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/lib/mybatis-3.4.4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/lib/mybatis-spring-1.3.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/lib/mysql-connector-java-5.1.21.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/lib/slf4j-api-1.7.9.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/lib/spring-aop-4.3.8.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/lib/spring-beans-4.3.8.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/lib/spring-context-4.3.8.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/lib/spring-core-4.3.8.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/lib/spring-expression-4.3.8.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/lib/spring-jdbc-4.3.8.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/lib/spring-test-4.3.8.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/lib/spring-tx-4.3.8.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/lib/spring-web-4.3.8.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/lib/spring-webmvc-4.3.8.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/pages/message.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/pages/upload.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/pages/uploadPost.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/pages/uploadPost2.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/pages/userForm.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/pages/userResult.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/springmvc-servlet.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/WEB-INF/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/Exam3/index.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/classes/account.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/classes/com/qunar/fresh2017/common/SingletonSqlSessionFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/classes/com/qunar/fresh2017/controller/UserController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/classes/com/qunar/fresh2017/dao/TextDiffDao.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/classes/com/qunar/fresh2017/mapper/TextDiffMapper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/classes/com/qunar/fresh2017/model/TextDiff.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/classes/com/qunar/fresh2017/service/TextService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/classes/com/qunar/fresh2017/service/impl/TextServiceImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/classes/com/qunar/fresh2017/util/LineProcessorImp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/classes/com/qunar/fresh2017/util/LoginChecker.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/classes/com/qunar/fresh2017/util/TextComparisionAndDB.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/classes/com/qunar/fresh2017/util/TextComparison.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/classes/com/qunar/fresh2017/util/TextReader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/classes/jdbc.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/classes/logback.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/classes/mapper/TextDiff.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/classes/mybatis-config.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/classes/spring/spring-mybatis.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/classes/spring/springmvc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/classes/text/src1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/classes/text/src2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/classes/text/src3.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/classes/text/src4.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/classes/text/src5.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/classes/text/src6.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/classes/text/target1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/classes/text/target2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/classes/text/target3.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/classes/text/target4.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/classes/text/target5.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/classes/text/target6.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/classes/textdiff.sql" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/20170623/Exam3/target/test-classes/util/TextComparisionAndDBTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logForOnlineSystem/target/classes/LineProcessorImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logForOnlineSystem/target/classes/Main.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logForOnlineSystem/target/classes/StringTranslator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logForOnlineSystem/target/classes/src.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logForOnlineSystem/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logForOnlineSystem/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/onduty_table/target/classes/com/qunar/crm/Test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/onduty_table/target/classes/com/qunar/crm/dao/EmployeeListOnDutyDao.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/onduty_table/target/classes/com/qunar/crm/model/EmployeeListOnDuty.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/onduty_table/target/classes/com/qunar/crm/model/EmployeeOnDuty.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/onduty_table/target/classes/com/qunar/crm/myannotation/Annotation_my.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/onduty_table/target/classes/com/qunar/crm/myannotation/MyAnno.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/onduty_table/target/classes/com/qunar/crm/myannotation/MyClass.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/onduty_table/target/classes/com/qunar/crm/myannotation/Person.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/onduty_table/target/classes/com/qunar/crm/myannotation/Student.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/onduty_table/target/classes/com/qunar/crm/service/EmployeeListOnDutyService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/onduty_table/target/classes/com/qunar/crm/service/EmployeeListOnDutyService2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/onduty_table/target/classes/com/qunar/crm/service/impl/EmployeeListOnDutyServiceImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/onduty_table/target/classes/db.sql" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/onduty_table/target/classes/jdbc.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/onduty_table/target/classes/logback.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/onduty_table/target/classes/mapper/EmployeeListOnDutyDao.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/onduty_table/target/classes/spring/spring_mybatis.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/onduty_table/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/onduty_table/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC170622/target/classes/aop/aop.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC170622/target/classes/db.sql" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC170622/target/classes/jdbc.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC170622/target/classes/logback.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC170622/target/classes/mapper/User.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC170622/target/classes/mybatis-config.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC170622/target/classes/spring_aop/interceptor.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC170622/target/classes/wjt/common/SingletonSqlSessionFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC170622/target/classes/wjt/controller/HelloReaderController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC170622/target/classes/wjt/dao/UserDao.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC170622/target/classes/wjt/interceptor/Interceptor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC170622/target/classes/wjt/interceptor/InterceptorImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC170622/target/classes/wjt/mapper/UserMapper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC170622/target/classes/wjt/model/User.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC170622/target/classes/wjt/myconfig/MyConfigure.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC170622/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC170622/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC170623/target/classes/account.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC170623/target/classes/aop/aop.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC170623/target/classes/jdbc.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC170623/target/classes/logback.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC170623/target/classes/mapper/TextDiffMapper.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC170623/target/classes/spring/spring-mybatis.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC170623/target/classes/sql/textdiff.sql" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC170623/target/classes/wjt/controller/HelloReaderController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC170623/target/classes/wjt/mapper/TextDiffMapper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC170623/target/classes/wjt/model/TextDiff.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC170623/target/classes/wjt/service/TextDiffService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC170623/target/classes/wjt/service/impl/TextDiffServiceImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC170623/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC170623/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC_170726/target/classes/c3/autoscan.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC_170726/target/classes/c3/autowired.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC_170726/target/classes/c4/c4_aop.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC_170726/target/classes/c5/c5_aop.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC_170726/target/classes/c5/jdbc.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC_170726/target/classes/c5/logback.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC_170726/target/classes/knights-aop.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC_170726/target/classes/knights.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC_170726/target/classes/performer_c2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC_170726/target/classes/performer_c2_aop.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC_170726/target/classes/springInAction_c1/BraveKnight.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC_170726/target/classes/springInAction_c1/Knight.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC_170726/target/classes/springInAction_c1/Minstrel.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC_170726/target/classes/springInAction_c1/Quest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC_170726/target/classes/springInAction_c1/RescueDamselQuest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC_170726/target/classes/springInAction_c1/SlayDragonQuest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC_170726/target/classes/springInAction_c2/Juggler.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC_170726/target/classes/springInAction_c2/PerformanceException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC_170726/target/classes/springInAction_c2/Performer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC_170726/target/classes/springInAction_c3/Guitar.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC_170726/target/classes/springInAction_c3/Instrument.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC_170726/target/classes/springInAction_c3/Instrumentalist.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC_170726/target/classes/springInAction_c3/MyConfigure.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC_170726/target/classes/springInAction_c3/Saxophone.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC_170726/target/classes/springInAction_c4/Audience.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC_170726/target/classes/springInAction_c4/Guitar.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC_170726/target/classes/springInAction_c4/Instrument.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC_170726/target/classes/springInAction_c4/Instrumentalist.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC_170726/target/classes/springInAction_c4/Magician.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC_170726/target/classes/springInAction_c4/MindReader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC_170726/target/classes/springInAction_c4/MyConfigure.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC_170726/target/classes/springInAction_c4/PerformanceException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC_170726/target/classes/springInAction_c4/Performer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC_170726/target/classes/springInAction_c4/Saxophone.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC_170726/target/classes/springInAction_c4/Thinker.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC_170726/target/classes/springInAction_c4/Volunteer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC_170726/target/classes/springInAction_c5/MyDao.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC_170726/target/classes/springInAction_c5/MyDaoImpl$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC_170726/target/classes/springInAction_c5/MyDaoImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC_170726/target/classes/springInAction_c5/UserModel.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC_170726/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springMVC_170726/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HowTomcatWorksTest/HowTomcatWorksTest.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HowTomcatWorksTest/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frc_170624_2/score" afterPath="$PROJECT_DIR$/frc_170624_2/score" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/score170624" afterPath="$PROJECT_DIR$/score170624" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/Spider_170802_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/Spider_170802_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/onduty_table_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/onduty_table_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/springMVC170623_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/springMVC170623_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/springMVC_170726_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/springMVC_170726_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Spider_170802/Spider_170802.iml" afterPath="$PROJECT_DIR$/Spider_170802/Spider_170802.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Spider_170802/pom.xml" afterPath="$PROJECT_DIR$/Spider_170802/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logForOnlineSystem/logForOnlineSystem.iml" afterPath="$PROJECT_DIR$/logForOnlineSystem/logForOnlineSystem.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/onduty_table/onduty_table.iml" afterPath="$PROJECT_DIR$/onduty_table/onduty_table.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/springMVC170622/springMVC170622.iml" afterPath="$PROJECT_DIR$/springMVC170622/springMVC170622.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/springMVC170623/springMVC170623.iml" afterPath="$PROJECT_DIR$/springMVC170623/springMVC170623.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/springMVC170623/src/main/java/wjt/controller/HelloReaderController.java" afterPath="$PROJECT_DIR$/springMVC170623/src/main/java/wjt/controller/HelloReaderController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/springMVC_170726/springMVC_170726.iml" afterPath="$PROJECT_DIR$/springMVC_170726/springMVC_170726.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/springMVC_170726/src/main/java/springInAction_c5/MyDao.java" afterPath="$PROJECT_DIR$/springMVC_170726/src/main/java/springInAction_c5/MyDao.java" />
     </list>
     <ignored path="$PROJECT_DIR$/springMVC170622/target/" />
     <ignored path="$PROJECT_DIR$/ML_Train/target/" />
@@ -360,6 +20,7 @@
     <ignored path="$PROJECT_DIR$/springMVC_170726/target/" />
     <ignored path="$PROJECT_DIR$/redis_test/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/HowTomcatWorksTest/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -410,11 +71,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test24.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test24.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Spider_170802/src/main/webapp/pages/test24.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="42" column="32" lean-forward="true" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="32" />
+            <state relative-caret-position="1220">
+              <caret line="61" column="29" lean-forward="false" selection-start-line="61" selection-start-column="29" selection-end-line="61" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HowTomcatWorksTest/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -444,6 +115,7 @@
         <option value="$PROJECT_DIR$/Spider_170802/src/main/webapp/pages/test22.html" />
         <option value="$PROJECT_DIR$/Spider_170802/src/main/webapp/pages/test23.html" />
         <option value="$PROJECT_DIR$/Spider_170802/src/main/webapp/pages/test24.html" />
+        <option value="$PROJECT_DIR$/HowTomcatWorksTest/pom.xml" />
       </list>
     </option>
   </component>
@@ -1024,16 +696,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1503976468940</updated>
-      <workItem from="1503976472233" duration="3663000" />
+      <workItem from="1503976472233" duration="4596000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3663000" />
+    <option name="totallyTimeSpent" value="4596000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="60" y="-4" width="1860" height="1084" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -1049,6 +720,7 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32983193" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -1056,7 +728,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32983193" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24972376" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -1115,8 +787,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Spider_170802/src/main/webapp/pages/test24.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="42" column="32" lean-forward="true" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="32" />
+        <state relative-caret-position="1220">
+          <caret line="61" column="29" lean-forward="false" selection-start-line="61" selection-start-column="29" selection-end-line="61" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HowTomcatWorksTest/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
