@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/ML_Train" />
     <file type="web" url="file://$PROJECT_DIR$/onduty_table" />
     <file type="web" url="file://$PROJECT_DIR$/Spider_170802" />
+    <file type="web" url="file://$PROJECT_DIR$/springInAction_4" />
     <file type="web" url="file://$PROJECT_DIR$/springMVC170622" />
     <file type="web" url="file://$PROJECT_DIR$/springMVC170623" />
     <file type="web" url="file://$PROJECT_DIR$/springMVC_170726" />

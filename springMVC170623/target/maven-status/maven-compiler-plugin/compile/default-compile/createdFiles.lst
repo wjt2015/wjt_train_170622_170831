@@ -1,5 +1,0 @@
-wjt/model/TextDiff.class
-wjt/service/TextDiffService.class
-wjt/mapper/TextDiffMapper.class
-wjt/controller/HelloReaderController.class
-wjt/service/impl/TextDiffServiceImpl.class

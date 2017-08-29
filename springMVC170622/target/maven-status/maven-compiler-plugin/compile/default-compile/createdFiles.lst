@@ -1,8 +1,0 @@
-wjt/interceptor/Interceptor.class
-wjt/common/SingletonSqlSessionFactory.class
-wjt/mapper/UserMapper.class
-wjt/controller/HelloReaderController.class
-wjt/myconfig/MyConfigure.class
-wjt/dao/UserDao.class
-wjt/interceptor/InterceptorImpl.class
-wjt/model/User.class

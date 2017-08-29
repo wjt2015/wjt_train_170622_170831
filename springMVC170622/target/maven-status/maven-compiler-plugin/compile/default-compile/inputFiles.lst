@@ -1,9 +1,0 @@
-/home/linux2014/WJT_2017/projects/idea_projects/wjt_train_170622/springMVC170622/src/main/java/wjt/controller/HelloReaderController.java
-/home/linux2014/WJT_2017/projects/idea_projects/wjt_train_170622/springMVC170622/src/main/java/wjt/mapper/UserMapper.java
-/home/linux2014/WJT_2017/projects/idea_projects/wjt_train_170622/springMVC170622/src/main/java/wjt/model/User.java
-/home/linux2014/WJT_2017/projects/idea_projects/wjt_train_170622/springMVC170622/src/main/java/wjt/common/SingletonSqlSessionFactory.java
-/home/linux2014/WJT_2017/projects/idea_projects/wjt_train_170622/springMVC170622/src/main/java/wjt/dao/UserDao.java
-/home/linux2014/WJT_2017/projects/idea_projects/wjt_train_170622/springMVC170622/src/main/java/wjt/interceptor/Interceptor.java
-/home/linux2014/WJT_2017/projects/idea_projects/wjt_train_170622/springMVC170622/src/main/java/Main.java
-/home/linux2014/WJT_2017/projects/idea_projects/wjt_train_170622/springMVC170622/src/main/java/wjt/myconfig/MyConfigure.java
-/home/linux2014/WJT_2017/projects/idea_projects/wjt_train_170622/springMVC170622/src/main/java/wjt/interceptor/InterceptorImpl.java

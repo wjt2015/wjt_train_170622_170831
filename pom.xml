@@ -17,6 +17,39 @@
         <module>springMVC_170726</module>
         <module>logForOnlineSystem</module>
         <module>Spider_170802</module>
+        <module>ML_Train</module>
+        <module>springInAction_4</module>
     </modules>
+
+    <properties>
+        <org.jsoup.jsoup.version>1.6.1</org.jsoup.jsoup.version>
+        <junit.junit.version>4.12</junit.junit.version>
+        <com.google.guava.guava.version>23.0-rc1</com.google.guava.guava.version>
+    </properties>
+
+    <dependencyManagement>
+        <dependencies>
+
+            <dependency>
+                <groupId>org.jsoup</groupId>
+                <artifactId>jsoup</artifactId>
+                <version>${org.jsoup.jsoup.version}</version>
+            </dependency>
+
+            <dependency>
+                <groupId>junit</groupId>
+                <artifactId>junit</artifactId>
+                <version>${junit.junit.version}</version>
+                <scope>test</scope>
+            </dependency>
+
+            <dependency>
+                <groupId>com.google.guava</groupId>
+                <artifactId>guava</artifactId>
+                <version>${com.google.guava.guava.version}</version>
+            </dependency>
+
+        </dependencies>
+    </dependencyManagement>
 </project>
 

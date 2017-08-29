@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ML_Train/ML_Train.iml" filepath="$PROJECT_DIR$/ML_Train/ML_Train.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spider_170802/Spider_170802.iml" filepath="$PROJECT_DIR$/Spider_170802/Spider_170802.iml" />
       <module fileurl="file://$PROJECT_DIR$/logForOnlineSystem/logForOnlineSystem.iml" filepath="$PROJECT_DIR$/logForOnlineSystem/logForOnlineSystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/onduty_table/onduty_table.iml" filepath="$PROJECT_DIR$/onduty_table/onduty_table.iml" />
       <module fileurl="file://$PROJECT_DIR$/redis_test/redis_test.iml" filepath="$PROJECT_DIR$/redis_test/redis_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springInAction_4/springInAction_4.iml" filepath="$PROJECT_DIR$/springInAction_4/springInAction_4.iml" />
       <module fileurl="file://$PROJECT_DIR$/springMVC170622/springMVC170622.iml" filepath="$PROJECT_DIR$/springMVC170622/springMVC170622.iml" />
       <module fileurl="file://$PROJECT_DIR$/springMVC170623/springMVC170623.iml" filepath="$PROJECT_DIR$/springMVC170623/springMVC170623.iml" />
       <module fileurl="file://$PROJECT_DIR$/springMVC_170726/springMVC_170726.iml" filepath="$PROJECT_DIR$/springMVC_170726/springMVC_170726.iml" />
