@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="HowTomcatWorksTest" />
+        <module name="logForOnlineSystem" />
+        <module name="ML_Train" />
+        <module name="onduty_table" />
+        <module name="redis_test" />
+        <module name="Spider_170802" />
+        <module name="springInAction_4" />
+        <module name="springMVC170622" />
+        <module name="springMVC170623" />
+        <module name="springMVC_170726" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="HowTomcatWorksTest" target="1.5" />
+      <module name="logForOnlineSystem" target="1.5" />
+      <module name="ML_Train" target="1.5" />
+      <module name="onduty_table" target="1.5" />
+      <module name="redis_test" target="1.5" />
+      <module name="Spider_170802" target="1.5" />
+      <module name="springInAction_4" target="1.5" />
+      <module name="springMVC170622" target="1.5" />
+      <module name="springMVC170623" target="1.7" />
+      <module name="springMVC_170726" target="1.5" />
+      <module name="wjt_train_170622" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

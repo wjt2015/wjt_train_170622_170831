@@ -1,0 +1,10 @@
+STD=
+WARN=
+OPT=
+MALLOC=libc
+CFLAGS=
+LDFLAGS=
+REDIS_CFLAGS=
+REDIS_LDFLAGS=
+PREV_FINAL_CFLAGS=-g3 -ggdb3 -I../deps/hiredis -I../deps/linenoise -I../deps/lua/src
+PREV_FINAL_LDFLAGS= -g3 -ggdb3 -rdynamic

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <version>1.0-SNAPSHOT</version>
+    <groupId>com.qunar.fresh2017</groupId>
+    <artifactId>wjt_train_170622</artifactId>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>springMVC170622</module>
+        <module>redis_test</module>
+        <module>springMVC170623</module>
+        <!--<module>redis26_hjh</module>-->
+        <module>onduty_table</module>
+        <module>springMVC_170726</module>
+        <module>logForOnlineSystem</module>
+        <module>Spider_170802</module>
+        <module>ML_Train</module>
+        <module>springInAction_4</module>
+        <module>HowTomcatWorksTest</module>
+    </modules>
+
+    <properties>
+        <org.jsoup.jsoup.version>1.6.1</org.jsoup.jsoup.version>
+        <junit.junit.version>4.12</junit.junit.version>
+        <com.google.guava.guava.version>23.0-rc1</com.google.guava.guava.version>
+    </properties>
+
+    <dependencyManagement>
+        <dependencies>
+
+            <dependency>
+                <groupId>org.jsoup</groupId>
+                <artifactId>jsoup</artifactId>
+                <version>${org.jsoup.jsoup.version}</version>
+            </dependency>
+
+            <dependency>
+                <groupId>junit</groupId>
+                <artifactId>junit</artifactId>
+                <version>${junit.junit.version}</version>
+                <scope>test</scope>
+            </dependency>
+
+            <dependency>
+                <groupId>com.google.guava</groupId>
+                <artifactId>guava</artifactId>
+                <version>${com.google.guava.guava.version}</version>
+            </dependency>
+
+        </dependencies>
+    </dependencyManagement>
+</project>
+

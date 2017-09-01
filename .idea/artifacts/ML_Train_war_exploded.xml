@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="ML_Train:war exploded">
+    <output-path>$PROJECT_DIR$/ML_Train/target/ML_Train</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="ML_Train" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: nz.ac.waikato.cms.weka:weka-dev:3.7.8" />
+          <element id="library" level="project" name="Maven: net.sf.squirrel-sql.thirdparty-non-maven:java-cup:0.11a" />
+          <element id="library" level="project" name="Maven: org.pentaho.pentaho-commons:pentaho-package-manager:1.0.5" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/ML_Train/target/ML_Train/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="ML_Train/web/Web" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Spider_170802:war">
+    <output-path>$PROJECT_DIR$/Spider_170802/target</output-path>
+    <root id="archive" name="Spider_170802.war">
+      <element id="artifact" artifact-name="Spider_170802:war exploded" />
+    </root>
+  </artifact>
+</component>

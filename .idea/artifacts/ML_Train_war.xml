@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ML_Train:war">
+    <output-path>$PROJECT_DIR$/ML_Train/target</output-path>
+    <root id="archive" name="ML_Train.war">
+      <element id="artifact" artifact-name="ML_Train:war exploded" />
+    </root>
+  </artifact>
+</component>

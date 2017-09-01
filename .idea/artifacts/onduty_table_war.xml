@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="onduty_table:war">
+    <output-path>$PROJECT_DIR$/onduty_table/target</output-path>
+    <root id="archive" name="onduty_table.war">
+      <element id="artifact" artifact-name="onduty_table:war exploded" />
+    </root>
+  </artifact>
+</component>

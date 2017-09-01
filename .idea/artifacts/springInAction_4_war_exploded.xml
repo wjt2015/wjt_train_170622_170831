@@ -1,0 +1,43 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="springInAction_4:war exploded">
+    <output-path>$PROJECT_DIR$/springInAction_4/target/springInAction_4</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="springInAction_4" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.9" />
+          <element id="library" level="project" name="Maven: org.slf4j:jcl-over-slf4j:1.7.9" />
+          <element id="library" level="project" name="Maven: ch.qos.logback:logback-classic:1.2.3" />
+          <element id="library" level="project" name="Maven: ch.qos.logback:logback-core:1.2.3" />
+          <element id="library" level="project" name="Maven: org.projectlombok:lombok:1.16.0" />
+          <element id="library" level="project" name="Maven: joda-time:joda-time:2.9.7" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context-support:4.3.8.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context:4.3.8.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:4.3.8.RELEASE" />
+          <element id="library" level="project" name="Maven: commons-logging:commons-logging:1.2" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-beans:4.3.8.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:4.3.8.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-expression:4.3.8.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-web:4.3.8.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aop:4.3.8.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jdbc:4.3.8.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-tx:4.3.8.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aspects:4.3.8.RELEASE" />
+          <element id="library" level="project" name="Maven: org.aspectj:aspectjweaver:1.8.10" />
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.40" />
+          <element id="library" level="project" name="Maven: org.junit:junit4-runner:5.0.0-ALPHA" />
+          <element id="library" level="project" name="Maven: org.junit:junit-launcher:5.0.0-ALPHA" />
+          <element id="library" level="project" name="Maven: org.junit:junit-engine-api:5.0.0-ALPHA" />
+          <element id="library" level="project" name="Maven: org.junit:junit-commons:5.0.0-ALPHA" />
+          <element id="library" level="project" name="Maven: org.opentest4j:opentest4j:1.0.0-ALPHA" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/springInAction_4/target/springInAction_4/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="springInAction_4/web/Web" />
+    </root>
+  </artifact>
+</component>
